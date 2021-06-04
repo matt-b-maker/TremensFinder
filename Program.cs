@@ -153,8 +153,8 @@ namespace BeerFinder
         {
             // Find your Account SID and Auth Token at twilio.com/console
             // and set the environment variables. See http://twil.io/secure
-            var accountSid = "ACc8ebe9fcb583a05db42e9c7e93104f8d";
-            string authToken = "15e564f65a8f9e751bf972728cc2e1fa";
+            var accountSid = "********************************";
+            string authToken = "********************************";
 
             TwilioClient.Init(accountSid, authToken);
 
